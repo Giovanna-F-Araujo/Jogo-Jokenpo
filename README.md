@@ -1,2 +1,14 @@
 # Jogo Jokenpo
  Projeto: Jogo Jokenpo
+
+### Sobre o jogo: 
+ - 2 JOGADORES;
+ - ELEMENTOS: PEDRA(1), PAPEL(2) e TESOURA(3);
+ - PONTOS: PLACAR
+
+### REGRAS DO JOGO: 
+ - Nº JOGADAS;
+ - ELEMENTOS IGUAIS SÃO EMPATE; 
+ - PEDRA GANHA DE TESOURA;
+ - TESOURA GANHA DE PAPEL;
+ - REINICIAR O JOGO. 
